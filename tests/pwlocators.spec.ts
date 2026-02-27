@@ -6,7 +6,7 @@ test("Verify playwrite locators",async({page})=>{
     await page.getByRole("https://www.nopcommerce.com/");
 
 
-
+just for changing the code  
 
 
 
